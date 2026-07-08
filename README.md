@@ -132,3 +132,6 @@ The app opens at `http://localhost:8501`.
 - This is a submission-ready educational project; it is not hardened for production
   (no auth, no rate-limiting, keys entered client-side per session only).
 - `chroma_db/` is created automatically on first run — delete it to reset the knowledge base.
+
+## 🌐 Website 
+https://enterprise-ai-knowledge-app-ht6wcnal244ts5vhgk3vel.streamlit.app
